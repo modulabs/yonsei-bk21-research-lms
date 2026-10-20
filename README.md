@@ -5,6 +5,8 @@
 
 **교안 열기: https://modulabs.github.io/yonsei-bk21-research-lms/**
 
+기획 문서(PRD, 2026-10-20 협의 반영): [docs/PRD.md](docs/PRD.md)
+
 ## 이 교안으로 하는 일
 
 - 세부 단계마다 먼저 내 생각을 적으면, 적은 내용이 프롬프트 빈칸에 들어갑니다.
